@@ -1,0 +1,21 @@
+.Detail_center_right_title{
+    margin: 15px auto;
+    width: 92%;
+    height: 60px;
+    border-bottom: #CECECE 1px solid;
+}
+.Detail_center_right_center{
+    width: 92%;
+    margin: 10px auto;
+    margin-bottom:30px;
+}
+.Detail_center_right_footer{
+    width: 100%;
+    height:70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 4%;
+    border-top: #CECECE 1px solid;
+    font-size: 13px;
+    color:#808080;
+}
